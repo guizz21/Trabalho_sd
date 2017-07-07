@@ -1,8 +1,9 @@
 # Trabalho_sd
 Trabalho de Sistemas Distribuidos, Ulbra - Canoas - 2017/01 - Prof. Tales
 
-
 O trabalho foi desenvolvido utilizando node.js, php, base de dados MySQL(WampServer Version 3.0.6 64bit);
+
+Faça download do .rar e descompacte na pasta www do seu WampServer.
 
 Com o wampServer rodando, execute os passos abaixo:
 
